@@ -1,4 +1,4 @@
-# drag
+# Vue Draggable and Sortable
 
 ## Project setup
 ```
