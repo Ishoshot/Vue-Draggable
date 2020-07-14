@@ -1,6 +1,6 @@
 # Vue Draggable and Sortable
 
-## Project setup
+## Project setup: Complete the following to setup
 ```
 npm install
 ```
